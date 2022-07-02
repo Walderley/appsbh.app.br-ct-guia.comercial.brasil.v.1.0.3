@@ -1,1 +1,1 @@
-# appsbh.app.br-ct-guia.comercial.brasil.v.1.0.3
+# guiacombrasil.appsbh.app.br-ct-GuiaComBrasil.v.1.0.3
